@@ -20,4 +20,4 @@ For reference and inspiration, here’s a real prototype solution at Northvolt s
 
 ## Task 2
 
-Open the jupyter notebook and follow the instructions. Good luck!
+You've been given a saved TensorFlow network with ReLU activations. Your task is now to convert these activations to Linear activations. Open the jupyter notebook and follow the instructions. Good luck!
